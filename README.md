@@ -2,7 +2,7 @@
 
 A professional, high-reliability native Indian Rupee denomination counter application built specifically for Android and optimized for Google Pixel 7a.
 
-[![Download APK](https://img.shields.io/badge/Download-Ready--to--Install%20APK-brightgreen?style=for-the-badge&logo=android)](release/RupeeCounter.apk)
+[![Download APK](https://img.shields.io/badge/Download-RupeeCounter.apk%20(v1.0.0)-brightgreen?style=for-the-badge&logo=android)](https://github.com/heisenricher/denomination/releases/download/v1.0.0/RupeeCounter.apk)
 
 ![Rupee Counter](https://img.shields.io/badge/Platform-Android-green)
 ![API](https://img.shields.io/badge/Min%20SDK-26%20%7C%20Target%20SDK-35-blue)
@@ -11,18 +11,20 @@ A professional, high-reliability native Indian Rupee denomination counter applic
 
 ---
 
-## 📲 Ready-to-Install APK
+## 📲 Ready-to-Install APK Download
 
-You can download and install the app directly on your Android phone (optimized for Pixel 7a):
+You can download and install the app directly on your Android phone (Pixel 7a):
 
-👉 **[Download RupeeCounter.apk](release/RupeeCounter.apk)** (15.1 MB)
+👉 **[Download RupeeCounter.apk directly (v1.0.0)](https://github.com/heisenricher/denomination/releases/download/v1.0.0/RupeeCounter.apk)** (15.1 MB)
 
-### Installation Instructions on Android:
-1. Tap the download link above or download [`release/RupeeCounter.apk`](release/RupeeCounter.apk).
-2. Open the downloaded APK on your Pixel 7a or Android device.
-3. If prompted, allow "Install from unknown sources" for your browser or files app.
-4. Tap **Install** and open **Rupee Counter**.
-5. Start counting notes and coins with 100% offline privacy and automatic session restoration!
+*Release page:* [GitHub Releases v1.0.0](https://github.com/heisenricher/denomination/releases/tag/v1.0.0)
+
+### Quick Install Steps:
+1. Tap the **[Download RupeeCounter.apk](https://github.com/heisenricher/denomination/releases/download/v1.0.0/RupeeCounter.apk)** link.
+2. In your mobile browser, tap **Download anyway** if prompted.
+3. Once downloaded, tap the notification or open **Downloads** in the **Files** app.
+4. Tap **RupeeCounter.apk** and choose **Install**.
+5. Launch **Rupee Counter** and start counting notes and coins!
 
 ---
 
