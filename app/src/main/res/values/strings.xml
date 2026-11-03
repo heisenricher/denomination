@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rupee Counter</string>
+    <string name="notes_section_title">Banknotes</string>
+    <string name="coins_section_title">Coins</string>
+    <string name="total_cash">Grand Total</string>
+    <string name="save_record">Save Record</string>
+    <string name="saved_records">Saved Records</string>
+    <string name="clear_reset">Reset</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="share_summary">Share Summary</string>
+    <string name="reset_dialog_title">Reset Current Count?</string>
+    <string name="reset_dialog_message">This will reset all current denomination counts to zero. Your previously saved records will remain safe and untouched.</string>
+    <string name="confirm_reset">Reset to Zero</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_record_title">Delete Saved Record?</string>
+    <string name="delete_record_message">Are you sure you want to delete this counting record permanently?</string>
+    <string name="record_saved_success">Record saved successfully</string>
+    <string name="record_deleted_success">Record deleted</string>
+    <string name="no_saved_records">No saved records yet</string>
+    <string name="save_record_title_hint">Record remarks / label (optional)</string>
+    <string name="save_dialog_title">Save Counting Record</string>
+</resources>
